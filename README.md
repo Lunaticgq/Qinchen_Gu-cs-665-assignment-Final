@@ -7,7 +7,7 @@
 | Assignment # | Final                      |
 
 # Assignment Overview
-This final project is to build a software on my own. This project aims to develop a time-scheduled ordering system similar to McDonald's to meet customers' needs for different meals at different times. The system should be able to automatically provide corresponding menus based on the current time, thereby improving service efficiency and customer satisfaction.
+This final project is to build a software on my own. This project aims to develop a time-scheduled ordering system similar to McDonald's to meet customers' needs for different meals at different times. The system should be able to automatically provide corresponding menus based on the different time, thereby improving service efficiency and customer satisfaction.
 
 # GitHub Repository Link:
 https://github.com/Lunaticgq/Qinchen_Gu-cs-665-assignment-Final
